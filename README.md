@@ -56,6 +56,8 @@ Default CSV name *forminfo.csv*
 
 ## Execution instructions
 To fill fresh forms, run the `autoFormFiller.py` file
+
 To fill forms which are filled upto basic information, run `halfFilledFormDocUploader.py` file
+
 To Download Acknowledgement forms, run `semiAutoAcknowledgementDownloader.py` file
 
